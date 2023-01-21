@@ -11,7 +11,6 @@
 # Nat Gateway
 # Route Table
 
-
 #Cloud provider
 terraform {
   required_providers {
